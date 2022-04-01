@@ -49,7 +49,7 @@ const ProjectData = [
    {
     id: "6",
     title: "Typing Game",
-    text: "This project is a fun typing game. User can parctice his typing skill  and each room is made up with meaningful quote so that user can check the whole quote after he finished",
+    text: "This project is a fun typing game. User can parctice his typing skill  and each room is made up with meaningfull quote so that user can check the whole quote after he finished",
     duration: "2022.1.5 - 2022.1.11",
     link: "https://beyond2323.github.io/Typing-game23/",
     skill: ["Html", "Css", "JavaScript"],
