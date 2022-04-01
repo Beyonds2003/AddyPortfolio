@@ -1,10 +1,9 @@
 
-
 const ProjectData = [
     {
          id: "1",
          title: "Instagram clone",
-         text: "Just like Instagram, you can follow, unfollow account. You can also give like and comment on the post that you follow. Once you already login, you don't need to login again until you logOut.",
+         text: "Just like Instagram, you can  follow, unfollow account. You can also give like and comment on the post that you follow. Once you already login, you don't need to login again until you logOut.",
          duration: "2022.3.4 - 2022.3.28",
          link: "https://stupendous-paprenjak-482c3e.netlify.app/",
          skill: ["React", "Firebase", "Framer Motion"],
@@ -22,7 +21,7 @@ const ProjectData = [
    {
     id: "3",
     title: "Quzzical",
-    text: "This project will test your general knowledge skills. All of the questions in this project is comming from api and I put the answers randomly ( which mean you can't guess the flow of the right answer.)",
+    text: "In this project, I prepared to test users knowledge. All of the answer for these questions are from api and are put in random order.",
     duration: "2022.2.17 - 2022.2.24",
     link: "https://heuristic-kilby-d56d55.netlify.app/",
     skill: ["React", "Api"],
@@ -40,7 +39,7 @@ const ProjectData = [
     {
         id: "5",
         title: "Music Player",
-        text: "You can listen the music. Also, you can mute, loop, pause and restart the music. ",
+        text: "In this one, user can enjoy various kinds of music that he like. There will also be the functions like play,pause,skip,loop and restart. ",
         duration: "2021.12.22 - 2022.12.26",
         link: "https://beyond2323.github.io/MusicPlayer23/",
         skill: ["Html", "Css", "JavaScript"],
@@ -49,7 +48,7 @@ const ProjectData = [
    {
     id: "6",
     title: "Typing Game",
-    text: "In this project you can test your typing skill and you can also check what kind of quotes you typed in the end.",
+    text: "This project is a fun typing game. User can parctice his typing skill  and each room is made up with meaningfull quote so that user can check the whole quote after he finished",
     duration: "2022.1.5 - 2022.1.11",
     link: "https://beyond2323.github.io/Typing-game23/",
     skill: ["Html", "Css", "JavaScript"],
