@@ -41,7 +41,7 @@ const ProjectData = [
         title: "Music Player",
         text: "In this one, user can enjoy various kinds of music that he like. There will also be the functions like play,pause,skip,loop and restart. ",
         duration: "2021.12.22 - 2022.12.26",
-        link: "https://beyond2323.github.io/MusicPlayer23/",
+        link: "https://beyonds2003.github.io/MusicPlayer23/",
         skill: ["Html", "Css", "JavaScript"],
         image: "images/Musicplayer.png"
    },
@@ -50,7 +50,7 @@ const ProjectData = [
     title: "Typing Game",
     text: "This project is a fun typing game. User can parctice his typing skill  and each room is made up with meaningfull quote so that user can check the whole quote after he finished",
     duration: "2022.1.5 - 2022.1.11",
-    link: "https://beyond2323.github.io/Typing-game23/",
+    link: "https://beyonds2003.github.io/Typing-game23/",
     skill: ["Html", "Css", "JavaScript"],
     image: "images/Typing.png"
 },
