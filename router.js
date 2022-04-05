@@ -15,7 +15,7 @@ router.post("/contact", (req, res) => {
 
     let mailForm = {
         form: data.email,
-        to: "addykyaw5@gmail.com",
+        to: "stupiddev35@gmail.com",
         subject: `message from ${data.name}`,
         html: `
          <h3>Informations</h3>
