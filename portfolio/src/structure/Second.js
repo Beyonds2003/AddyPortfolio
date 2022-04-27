@@ -120,6 +120,18 @@ function Second() {
                     <img src="https://cdn.sanity.io/images/oneb1r22/production/f07d289005d5be44fe6a045efdc0a796d230bfc8-774x560.jpg" className='ook' />
                     <div className='iconText'>Framer motion</div>
                 </motion.div>
+                <motion.div className='skills' variants={showIcons}>
+                    <img src="	https://img.icons8.com/fluency/344/node-js.png" className='ook' />
+                    <div className='iconText'>Node Js</div>
+                </motion.div>
+                <motion.div className='skills' variants={showIcons}>
+                    <img src="express3.png" className='ook' />
+                    <div className='iconText'>Express</div>
+                </motion.div>
+                <motion.div className='skills' variants={showIcons}>
+                    <img src="	https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" className='ook' />
+                    <div className='iconText'>MongoDb</div>
+                </motion.div>
             </motion.div>
            </div>
             </div>

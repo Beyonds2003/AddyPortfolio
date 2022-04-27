@@ -8,8 +8,8 @@ router.post("/contact", (req, res) => {
         service: "Gmail",
         port: 465,
         auth: {
-            user: "addykyaw5@gmail.com",
-            pass: "762045086phyo23"
+            user: "stupiddev35@gmail.com",
+            pass: "762045086stupid"
         }
     })
 

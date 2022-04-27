@@ -2,7 +2,16 @@
 
 const ProjectData = [
     {
-         id: "1",
+        id: "1",
+        title: "Memories",
+        text: "In this memories project, you can add your memories and can edit, delete and leave a like too. Also, you can watch other memories by clicking , can leave a comment and a lot more. ",
+        duration: "2022.4.17 - 2022.4.26",
+        link: "https://phenomenal-llama-9526c3.netlify.app/",
+        skill: ["React", "Redux", "Node", "Express", "MongoDb"],
+        image: "images/Memories.png"
+   },
+    {
+         id: "2",
          title: "Instagram clone",
          text: "Just like Instagram, you can  follow, unfollow account. You can also give like and comment on the post that you follow. Once you already login, you don't need to login again until you logOut.",
          duration: "2022.3.4 - 2022.3.28",
@@ -11,7 +20,7 @@ const ProjectData = [
          image: "images/Instagramclone.png"
     },
     {
-        id: "2",
+        id: "3",
         title: "Ecommerce Website",
         text: "You can give a like and choose the product that you wanna buy. If you wanna buy the products that you choosed, touch the basket and order it.",
         duration: "2022.3.1 - 2022.3.3",
@@ -20,7 +29,7 @@ const ProjectData = [
         image: "images/Webshop.png"
    },
    {
-    id: "3",
+    id: "4",
     title: "Quzzical",
     text: "In this project, I prepared to test users knowledge. All of the answer for these questions are from api and are put in random order.",
     duration: "2022.2.17 - 2022.2.24",
@@ -29,7 +38,7 @@ const ProjectData = [
     image: "images/Quzzical.png"
    },
    {
-    id: "4",
+    id: "5",
     title: "Tenzies Game",
     text: "In order to win in this project, You have to roll all dice numbers to be equal. If you win, you can celebrate.",
     duration: "2022.2.3 - 2022.2.5",
@@ -38,7 +47,7 @@ const ProjectData = [
     image: "images/Dice.png"
     },
     {
-        id: "5",
+        id: "6",
         title: "Music Player",
         text: "In this one, user can enjoy various kinds of music that he like. There will also be the functions like play,pause,skip,loop and restart. ",
         duration: "2021.12.22 - 2022.12.26",
@@ -47,7 +56,7 @@ const ProjectData = [
         image: "images/Musicplayer.png"
    },
    {
-    id: "6",
+    id: "7",
     title: "Typing Game",
     text: "This project is a fun typing game. User can parctice his typing skill  and each room is made up with meaningfull quote so that user can check the whole quote after he finished",
     duration: "2022.1.5 - 2022.1.11",

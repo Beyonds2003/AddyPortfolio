@@ -67,7 +67,7 @@ function First() {
             variants={first}
          className='waves3 special'>
              <Typewriter 
-              words={["React Js Devloper", "Enthusiastic About New Tech"]}
+              words={["MERN STACK DEVELOPER", "Enthusiastic About New Tech"]}
               loop={Infinity}
              />
          </motion.div>

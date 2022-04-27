@@ -197,7 +197,6 @@ a {
     border-radius: 15px;
     cursor: pointer;
     font-size: 16px;
-    height: 350px;
 }
 
 .nic {
@@ -225,7 +224,7 @@ a {
 
 .kill {
     display: flex;
-    position: absolute;
+    flex-wrap: wrap;
     bottom: 15px;
 }
 
@@ -492,7 +491,7 @@ textarea:focus {
     .gd {
         grid-template-columns: repeat(1, 1fr);
     }
-    .cart {width: auto; height: 375px;}
+    .cart {width: auto;}
     .jj, .nnn {display: inline;background: white;}
     .menu {
         display: flex;
@@ -551,7 +550,7 @@ a {
 .skills {
     width: 26px;
     height: 25px;
-    margin: 20px 12px;
+    margin: 20px 20px;
     text-align: center;
 }
 .light1 {
